@@ -1,2 +1,3 @@
-Distributed Matrix Solver (Conjugate Gradient Method)
+                                    Distributed Matrix Solver (Conjugate Gradient Method)
+
 Проект представляет собой распределенную систему для решения систем линейных алгебраических уравнений (СЛАУ) методом сопряженных градиентов.
