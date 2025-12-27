@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\kurs_ris_new\\DistributedSolver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|g:\\kurs_ris_new\\distributedsolver\\tests\\stresscalculationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|solutionrelative:tests\\stresscalculationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|g:\\kurs_ris_new\\distributedsolver\\tests\\matrixloadingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|solutionrelative:tests\\matrixloadingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|g:\\kurs_ris_new\\distributedsolver\\tests\\gausssolvertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|solutionrelative:tests\\gausssolvertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|g:\\kurs_ris_new\\distributedsolver\\tests\\conjugategradienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|solutionrelative:tests\\conjugategradienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|g:\\kurs_ris_new\\distributedsolver\\tests\\systemassemblytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|solutionrelative:tests\\systemassemblytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|g:\\kurs_ris_new\\distributedsolver\\server\\services\\conjugategradientsolverparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|solutionrelative:server\\services\\conjugategradientsolverparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|g:\\kurs_ris_new\\distributedsolver\\server\\controllers\\solvercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|solutionrelative:server\\controllers\\solvercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|g:\\kurs_ris_new\\distributedsolver\\shared\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|solutionrelative:shared\\models\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|g:\\kurs_ris_new\\distributedsolver\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0621609-8753-412F-A9A3-410714B0C8F5}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|g:\\kurs_ris_new\\distributedsolver\\shared\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|solutionrelative:shared\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|g:\\kurs_ris_new\\distributedsolver\\shared\\utils\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|solutionrelative:shared\\utils\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|g:\\kurs_ris_new\\distributedsolver\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|g:\\kurs_ris_new\\distributedsolver\\server\\services\\solverstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|solutionrelative:server\\services\\solverstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|g:\\kurs_ris_new\\distributedsolver\\server\\services\\gausssolverlocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|solutionrelative:server\\services\\gausssolverlocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|g:\\kurs_ris_new\\distributedsolver\\shared\\models\\tcpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tcpmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|g:\\kurs_ris_new\\distributedsolver\\shared\\models\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1982925-032A-4803-A7C9-BC11D950FD1F}|Shared\\Shared.csproj|solutionrelative:shared\\models\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|g:\\kurs_ris_new\\distributedsolver\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09666717-BB93-4E14-A2C6-1344CB61DDE5}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lab\\4kurs\\kurs_ris\\Worker\\Services\\TcpWorkerClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StressCalculationTests.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\StressCalculationTests.cs",
+              "RelativeDocumentMoniker": "Tests\\StressCalculationTests.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\StressCalculationTests.cs",
+              "RelativeToolTip": "Tests\\StressCalculationTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:39:20.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConjugateGradientTests.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\ConjugateGradientTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ConjugateGradientTests.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\ConjugateGradientTests.cs",
+              "RelativeToolTip": "Tests\\ConjugateGradientTests.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAiwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:58:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GaussSolverTests.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\GaussSolverTests.cs",
+              "RelativeDocumentMoniker": "Tests\\GaussSolverTests.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\GaussSolverTests.cs",
+              "RelativeToolTip": "Tests\\GaussSolverTests.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAiwK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:57:59.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SystemAssemblyTests.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\SystemAssemblyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\SystemAssemblyTests.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\SystemAssemblyTests.cs",
+              "RelativeToolTip": "Tests\\SystemAssemblyTests.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:37:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tests",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T05:30:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixLoadingTests.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\MatrixLoadingTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MatrixLoadingTests.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Tests\\MatrixLoadingTests.cs",
+              "RelativeToolTip": "Tests\\MatrixLoadingTests.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T05:21:08.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConjugateGradientSolverParallel.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Services\\ConjugateGradientSolverParallel.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\ConjugateGradientSolverParallel.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Services\\ConjugateGradientSolverParallel.cs",
+              "RelativeToolTip": "Server\\Services\\ConjugateGradientSolverParallel.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAADwvxgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:46:40.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Result.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Result.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\Result.cs",
+              "RelativeToolTip": "Shared\\Models\\Result.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:37:16.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:47:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolverController.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Controllers\\SolverController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\SolverController.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Controllers\\SolverController.cs",
+              "RelativeToolTip": "Server\\Controllers\\SolverController.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAiwDMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:45:53.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SolverStateService.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Services\\SolverStateService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\SolverStateService.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Services\\SolverStateService.cs",
+              "RelativeToolTip": "Server\\Services\\SolverStateService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:46:38.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\Matrix.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Matrix.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\Matrix.cs",
+              "RelativeToolTip": "Shared\\Models\\Matrix.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAUwAEBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:37:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GaussSolverLocal.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Services\\GaussSolverLocal.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\GaussSolverLocal.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Server\\Services\\GaussSolverLocal.cs",
+              "RelativeToolTip": "Server\\Services\\GaussSolverLocal.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:46:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-23T00:46:42.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\Vector.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Vector.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\Vector.cs",
+              "RelativeToolTip": "Shared\\Models\\Vector.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAuwKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:37:36.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TcpMessage.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\TcpMessage.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\TcpMessage.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Models\\TcpMessage.cs",
+              "RelativeToolTip": "Shared\\Models\\TcpMessage.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAA5wKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:37:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Utils\\MathHelper.cs",
+              "RelativeDocumentMoniker": "Shared\\Utils\\MathHelper.cs",
+              "ToolTip": "G:\\kurs_ris_new\\DistributedSolver\\Shared\\Utils\\MathHelper.cs",
+              "RelativeToolTip": "Shared\\Utils\\MathHelper.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAswAcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:43:31.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TcpWorkerClient.cs",
+              "DocumentMoniker": "D:\\lab\\4kurs\\kurs_ris\\Worker\\Services\\TcpWorkerClient.cs",
+              "ToolTip": "D:\\lab\\4kurs\\kurs_ris\\Worker\\Services\\TcpWorkerClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T00:46:19.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

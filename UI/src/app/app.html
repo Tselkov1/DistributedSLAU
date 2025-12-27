@@ -1,0 +1,67 @@
+<div class="container">
+  <header class="header">
+    <h1>{{ title }}</h1>
+    <p class="subtitle">Сравнение методов Гаусса и сопряжённых градиентов</p>
+  </header>
+
+  <div class="main-content">
+    
+    <!-- Шаг 1: Загрузка данных или Генерация -->
+    <section class="section">
+      <h2>Шаг 1: Подготовка данных</h2>
+      <p class="section-desc">Загрузите файлы вручную или сгенерируйте тестовую систему в блоке Матрицы.</p>
+      
+      <div class="cards-grid">
+        <!-- 
+          Блок Матрицы. 
+          Здесь доступна генерация полной системы (fileType='system'), 
+          поэтому слушаем событие и обновляем состояние.
+        -->
+        <app-file-upload 
+          title="Матрица A"
+          fileType="matrix"
+          (uploadSuccess)="onDataReady($event)">
+        </app-file-upload>
+
+        <!-- 
+          Блок Вектора.
+        -->
+        <app-file-upload 
+          title="Вектор b"
+          fileType="vector"
+          (uploadSuccess)="onDataReady($event)">
+        </app-file-upload>
+      </div>
+    </section>
+    <!-- Шаг 2: Настройка кластера (Воркеры) -->
+    <section class="section">
+      <h2>Шаг 2: Настройка кластера</h2>
+      <p class="section-desc">Укажите IP-адреса и порты вычислительных узлов.</p>
+      
+      <!-- Компонент списка узлов -->
+      <app-nodes-list
+        (configured)="onWorkersConfigured($event)">
+      </app-nodes-list>
+    </section>
+    <!-- Шаг 3: Запуск решения -->
+    <section class="section">
+      <h2>Шаг 2: Настройка и запуск</h2>
+      <!-- Передаем флаг готовности (canStart) -->
+      <app-solver-panel 
+        [canStart]="canStartSolving">
+      </app-solver-panel>
+    </section>
+
+    <!-- Шаг 4: Результаты -->
+    <section class="section">
+      <h2>Шаг 3: Результаты сравнения</h2>
+      <!-- Компонент отображает результаты, когда они появляются в сервисе -->
+      <app-comparison-result></app-comparison-result>
+    </section>
+
+  </div>
+
+  <footer class="footer">
+    <p>.NET 8 + Angular 17 | Распределённые вычисления через TCP</p>
+  </footer>
+</div>
